@@ -1,1 +1,1 @@
-i have relocated my effors to [codeberg](https://codeberg.org/nezbednik)
+i have relocated my efforts to [codeberg](https://codeberg.org/nezbednik)
